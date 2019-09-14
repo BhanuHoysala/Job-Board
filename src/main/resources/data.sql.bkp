@@ -1,0 +1,5 @@
+insert into offer (id, job_title, applicants_count, start_date)
+VALUES
+(1,'Java Developer',0,'2019-10-01'),
+(2,'NodeJS Developer',0,'2019-10-02'),
+(3,'Go Developer',0,'2019-10-03');
